@@ -1,5 +1,10 @@
 # Text File Question Answering with Relevant URLs and Translation
 
+[Presentation](https://docs.google.com/presentation/d/1satBFCGGrixAbeZBmPptKr5OYHunuBb9/edit?usp=sharing&ouid=109899444944354171476&rtpof=true&sd=true)
+
+
+[Colab](https://drive.google.com/file/d/1dKGiwcf6xndxNnO8cb-eVvB6PbPOyTO0/view?usp=sharing)
+
 This repository contains a Python script for setting up a question-answering (QA) system that works with `.pdf` files. The system uses language models to provide answers to user queries and includes relevant URLs from the source documents in the responses. Additionally, it translates the responses to Russian.
 
 ## Requirements
