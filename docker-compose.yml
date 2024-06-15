@@ -1,0 +1,11 @@
+version: '3.9'
+services:
+
+  ainew:
+    container_name: ainew_api
+    restart: unless-stopped
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080"
